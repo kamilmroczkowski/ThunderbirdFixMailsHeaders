@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThunderbirdFixMailsHeaders", "ThunderbirdFixMailsHeaders\ThunderbirdFixMailsHeaders.csproj", "{A01FD67C-19B2-4007-8621-BEE769E91EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01FD67C-19B2-4007-8621-BEE769E91EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01FD67C-19B2-4007-8621-BEE769E91EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01FD67C-19B2-4007-8621-BEE769E91EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01FD67C-19B2-4007-8621-BEE769E91EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3CCCC5-8D76-4F71-9B39-606A0D1A5B01}
+	EndGlobalSection
+EndGlobal
