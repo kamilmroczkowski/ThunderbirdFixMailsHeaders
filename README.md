@@ -15,4 +15,4 @@ Repair/correct file have only CRLF:
 Repair file is replace CRCR to CR - and this program do this.
 
 Screenshot:
-!(doc/screenshot.jpg)
+![Screenshot](/doc/screenshot.jpg)
