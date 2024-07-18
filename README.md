@@ -1,5 +1,6 @@
 # ThunderbirdFixMailsHeaders
-Repair folders in Thunderbird. Program write in C# DotNet 4.7.2.
+Repair folders in Thunderbird. Program write in C# DotNet 4.7.2. Download from:
+https://github.com/kamilmroczkowski/ThunderbirdFixMailsHeaders/tree/main/release/
 
 Sometimes when we move profile Thunderbird to another Windows local folders in profile have problems with shows mails - like this:
 ![](/doc/thunderbird_problem.png)
